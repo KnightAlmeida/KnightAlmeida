@@ -1,16 +1,21 @@
-### Hi there 👋
+### Opa, muito bom ter você aqui, seja muito bem vindo ao meu GitHub :)
 
-<!--
-**ArthurAlmeida1/ArthurAlmeida1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+♟Esse é o lugar onde compartilho os meus projetos pessoais/organizacionais!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕹️Skills: <strong> Css, Html, Bootstrap, JavaScript, Java e Python. </strong>
+
+💡Tools: <strong> VSCode, PyCharm, Eclipse, Linux, Git, MySql Workbench, Vtex. </strong>
+
+<hr>
+<div align="center"> 
+  <a href="https://www.instagram.com/arthurvalmeidaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/arthurvalmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5583993433823&text=Ol%C3%A1%20Arthur%2C%20tudo%20bem%3F%20Vim%20pelo%20seu%20GitHub."><img src="https://img.shields.io/badge/-WhatsApp-%2300B050?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div> 
+<hr>
+<div>
+  <a href="https://github.com/ArthurAlmeida1">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArthurAlmeida1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlmeida1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
