@@ -11,7 +11,7 @@
 <div align="center"> 
   <a href="https://www.instagram.com/arthurvalmeidaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthurvalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5583993433823&text=Ol%C3%A1%20Arthur%2C%20tudo%20bem%3F%20Vim%20pelo%20seu%20GitHub."><img src="https://img.shields.io/badge/-WhatsApp-%2300B050?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5583993433823&text=Ol%C3%A1%20Arthur%2C%20tudo%20bem%3F%20Vim%20pelo%20seu%20GitHub."><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div> 
 <hr>
 <div>
