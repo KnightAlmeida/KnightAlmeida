@@ -1,7 +1,7 @@
 ### Opa, muito bom ter você aqui, seja muito bem vindo ao meu GitHub :)
 
 
-♟Esse é o lugar onde compartilho os meusa projetos pessoais/organizacionais!
+♟Esse é o lugar onde compartilho os meus projetos pessoais/organizacionais!
 
 🕹️Skills: <strong> Css, Html, Bootstrap, JavaScript, Java e Python. </strong>
 
