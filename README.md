@@ -3,7 +3,7 @@
 
 ♟Esse é o lugar onde compartilho os meus projetos pessoais/organizacionais!
 
-🕹️Skills: <strong> Css, Html, Bootstrap, JavaScript, Java e Python. </strong>
+🕹️Skills: <strong>Java, Python, Css, Html, Bootstrap e JavaScript,. </strong>
 
 💡Tools: <strong> VSCode, PyCharm, Eclipse, Linux, Git, MySql Workbench, Vtex. </strong>
 
