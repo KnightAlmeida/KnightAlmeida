@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://c.tenor.com/FQnZXapkamoAAAAi/tibia-wizard.gif"  />
+  <img height="250" src="https://static.wikia.nocookie.net/tibia/images/2/22/Wild_Warrior.gif/revision/latest/top-crop/width/360/height/360?cb=20180206145414&path-prefix=en"  />
 </div>
 
 ###
