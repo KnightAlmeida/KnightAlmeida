@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Front-End Skills</h2>
+<h2 align="left">Front-End</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">Back-End Skills</h2>
+<h2 align="left">Back-End</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">Database Skills</h2>
+<h2 align="left">Database</h2>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h2 align="left">Other Skills</h2>
+<h2 align="left">Other</h2>
 
 ###
 
