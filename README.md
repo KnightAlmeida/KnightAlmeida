@@ -99,4 +99,4 @@
 
 ###
 
-
+![Snake animation](https://github.com/ArthurAlmeida1/ArthurAlmeida1/blob/output/github-contribution-grid-snake.svg)
