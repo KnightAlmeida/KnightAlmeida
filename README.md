@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎮 Gamer<br>🔭 Desenvolvedor Full Stack<br>📚 Estudante de Ciência da Computação<br>🎲 Estudante de Java e suas tecnologias</p>
+<p align="left">🎮 Gamer<br>🔭 Desenvolvedor Full Stack<br>📚 Formando em Ciência da Computação<br>🎲 Estudante de Java e suas tecnologias</p>
 
 ###
 
