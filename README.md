@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Sobre.</h2>
+<h2 align="left">Sobre</h2>
 
 ###
 
