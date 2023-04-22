@@ -1,8 +1,5 @@
-<h1 align="center">Olá, me chamo Arthur</h1>
 
-###
-
-<h3 align="center">Seja bem vindo ao meu GitHub!! :D</h3>
+<h1 align="center">Seja bem vindo ao meu GitHub</h1>
 
 ###
 
@@ -12,11 +9,11 @@
 
 ###
 
-<h2 align="left">Sobre</h2>
+<h2 align="left">About</h2>
 
 ###
 
-<p align="left">🎮 Gamer<br>🔭 Desenvolvedor Full Stack<br>📚 Formando em Ciência da Computação<br>🎲 Estudante de Java e suas tecnologias</p>
+<p align="left"🔭 Eng de Dados<br>📚 Formando em Ciência da Computação<br>🎲 Mexo com uns Bancos de dados <br>🔭 Crescer um pouco por dia</p>
 
 ###
 
