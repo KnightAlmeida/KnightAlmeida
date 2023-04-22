@@ -1,5 +1,5 @@
 
-<h1 align="center">Seja bem vindo ao meu GitHub</h1>
+<h1 align="center">Welcome Outsider</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left"🔭 Eng de Dados<br>📚 Formando em Ciência da Computação<br>🎲 Brincando com tabelinhas <br>🔭 Crescer um pouco por dia</p>
+<p align="left"🔭 <br>📚 Cience Computer<br>🎲 Data Engineering <br>🔭 "Weniger Aber Besser"</p>
 
 ###
 
@@ -46,19 +46,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github logo"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux logo"  />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode logo"  />
 
 </div>
 
 ###
 
-<h2 align="left">Contatos</h2>
+<h2 align="left">Contacts</h2>
 
 ###
 
