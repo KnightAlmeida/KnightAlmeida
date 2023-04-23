@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left"🔭 <br>📚 Cience Computer<br>🎲 Data Engineering <br>🔭 "Weniger Aber Besser"</p>
+<p align="left"🔭 <br>📚 Sience Computer<br>🎲 Data Engineering <br>🔭 "Weniger Aber Besser"</p>
 
 ###
 
