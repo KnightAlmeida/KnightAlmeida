@@ -24,6 +24,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"alt="python logo"  />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"alt=".net logo"  />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"alt="R logo"  />
 </div>
 
 ###
@@ -70,10 +72,6 @@
 
 <div>
   <a href="https://github.com/KnightAlmeida">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KnightAlmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightAlmeida&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KnightAlmeida&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightAlmeida&layout=compact&theme=dark"/>
 </div>
-
-###
-
-![Snake animation](https://github.com/KnightAlmeida/KnightAlmeida/blob/output/github-contribution-grid-snake.svg)
