@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left"🔭 <br>📚 Science Computer<br>🎲 Data Engineering <br>🔭 "Weniger Aber Besser"</p>
+<p align="left"🔭 <br>📚 Science Computer<br> 💻 Backend Developer<br> 🎲 Data Engineering <br>🔭 "Weniger Aber Besser"</p>
 
 ###
 
