@@ -1,13 +1,5 @@
 
-<h1 align="center">Welcome Outsider</h1>
-
-###
-
-<div align="center">
-  <img height="250" src="https://static.wikia.nocookie.net/tibia/images/2/22/Wild_Warrior.gif/revision/latest/top-crop/width/360/height/360?cb=20180206145414&path-prefix=en"  />
-</div>
-
-###
+<h1 align="center">Welcome</h1>
 
 <h2 align="left">About</h2>
 
